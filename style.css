@@ -1,0 +1,5 @@
+.cube{
+    width:100px;
+    height: 100px;
+    background: linear-gradient(45deg, pink, red);
+}
